@@ -2,7 +2,7 @@
 [![GitHub](https://img.shields.io/badge/project-Data_Together-487b57.svg?style=flat-square)](http://github.com/datatogether)
 [![Slack](https://img.shields.io/badge/slack-Archivers-b44e88.svg?style=flat-square)](https://archivers-slack.herokuapp.com/)
 [![GoDoc](https://godoc.org/github.com/datatogether/rewrite?status.svg)](http://godoc.org/github.com/datatogether/rewrite)
-[![License](https://img.shields.io/github/license/datatogether/rewrite.svg)](./LICENSE) 
+[![License](https://img.shields.io/github/license/datatogether/rewrite.svg?style=flat-square)](./LICENSE) 
 
 rewrite is a package for modifying the contents of html & other web-related content types.
 it's primarily used as a tool to maintain the functionality of a web resource within the context
